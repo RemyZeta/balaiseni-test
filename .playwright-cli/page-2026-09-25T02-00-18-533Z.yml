@@ -1,0 +1,211 @@
+- generic:
+  - generic:
+    - generic:
+      - banner:
+        - generic:
+          - link:
+            - /url: /
+            - generic:
+              - generic: Go Gallery
+              - generic: Balai Seni Negara
+          - navigation:
+            - link:
+              - /url: /
+              - text: Utama
+            - link:
+              - /url: /about
+              - text: Tentang
+            - link:
+              - /url: /collection
+              - text: Koleksi
+            - generic:
+              - button: Sumber
+            - generic:
+              - button: Kedai
+            - link:
+              - /url: /links
+              - text: Pautan
+            - link:
+              - /url: /contact
+              - text: Hubungi
+          - generic:
+            - button
+            - group:
+              - generic: BM
+              - generic: /
+              - link:
+                - /url: https://martp.nizamjensani.digital/en/register
+                - text: EN
+            - generic:
+              - link:
+                - /url: /login
+                - text: Log Masuk
+              - link:
+                - /url: /register
+                - text: Sertai Kami
+      - main:
+        - generic:
+          - generic:
+            - paragraph: Daftar
+            - heading [level=1]: Sertai Kami
+            - paragraph: Daftar sebagai pengguna portal Go Gallery. Kategori tertentu seperti Galeri dan Artis akan menerima dashboard khas.
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic: Nama
+                - textbox:
+                  - /placeholder: Nama penuh / nama galeri
+              - generic:
+                - generic:
+                  - generic: Emel
+                  - textbox:
+                    - /placeholder: nama@emel.com
+                - generic:
+                  - generic: No. telefon
+                  - textbox:
+                    - /placeholder: +60 12-345 6789
+              - generic:
+                - generic: Alamat
+                - textbox:
+                  - /placeholder: Alamat penuh
+              - generic:
+                - generic:
+                  - generic: URL laman web
+                  - textbox:
+                    - /placeholder: https://
+                - generic:
+                  - generic: Kategori / Profesion
+                  - combobox [expanded]:
+                    - generic: Pilih kategori
+              - generic:
+                - generic:
+                  - generic: Facebook
+                  - textbox:
+                    - /placeholder: facebook.com/…
+                - generic:
+                  - generic: Instagram
+                  - textbox:
+                    - /placeholder: instagram.com/…
+                - generic:
+                  - generic: Twitter
+                  - textbox:
+                    - /placeholder: twitter.com/…
+                - generic:
+                  - generic: Youtube
+                  - textbox:
+                    - /placeholder: youtube.com/…
+              - generic:
+                - generic: Gambar profil
+                - button
+                - paragraph: JPG atau PNG, maksimum 5MB.
+              - button: Daftar
+              - paragraph:
+                - text: Sudah mendaftar?
+                - link:
+                  - /url: /login
+                  - text: Log masuk di sini
+                - text: .
+            - complementary:
+              - paragraph: Selepas mendaftar
+              - heading [level=2]: Modul dalam dashboard anda
+              - list:
+                - listitem:
+                  - generic: "01"
+                  - text: Profil
+                - listitem:
+                  - generic: "02"
+                  - text: Pameran & Aktiviti
+                - listitem:
+                  - generic: "03"
+                  - text: Tutorial
+                - listitem:
+                  - generic: "04"
+                  - text: Perkongsian
+                - listitem:
+                  - generic: "05"
+                  - text: Artikel
+                - listitem:
+                  - generic: "06"
+                  - text: Karya Untuk Dijual
+                - listitem:
+                  - generic: "07"
+                  - text: Perkhidmatan
+                - listitem:
+                  - generic: "08"
+                  - text: Barangan
+                - listitem:
+                  - generic: "09"
+                  - text: E-Penerbitan
+                - listitem:
+                  - generic: "10"
+                  - text: Berita
+                - listitem:
+                  - generic: "11"
+                  - text: Peti Masuk
+              - paragraph: Profil artis dan galeri akan dipaparkan secara automatik di bawah modul Artis / Galeri setelah disemak oleh Admin.
+      - contentinfo:
+        - generic:
+          - generic:
+            - paragraph: Go Gallery
+            - paragraph: Portal seni tampak Balai Seni Negara — menghimpunkan artis, galeri, perkhidmatan dan penerbitan seni Malaysia dalam satu ruang digital.
+            - generic:
+              - link:
+                - /url: https://facebook.com/balaisenineg
+              - link:
+                - /url: https://instagram.com/balaisenineg
+              - link:
+                - /url: https://x.com/balaisenineg
+              - link:
+                - /url: https://youtube.com/@balaisenineg
+              - link:
+                - /url: https://facebook.com/balaisenineg
+              - link:
+                - /url: https://facebook.com/balaisenineg
+              - link:
+                - /url: https://facebook.com/balaisenineg
+          - generic:
+            - paragraph: Terokai
+            - list:
+              - listitem:
+                - link:
+                  - /url: /links
+                  - text: Pautan
+              - listitem:
+                - link:
+                  - /url: /about
+                  - text: Tentang
+              - listitem:
+                - link:
+                  - /url: /shop/art-for-sale
+                  - text: Karya Untuk Dijual
+              - listitem:
+                - link:
+                  - /url: /resources/exhibitions
+                  - text: Pameran & Aktiviti
+              - listitem:
+                - link:
+                  - /url: /resources/nag-collection
+                  - text: Koleksi Tetap BSN
+          - generic:
+            - paragraph: Hubungi
+            - generic:
+              - paragraph: 2, Jalan Temerloh, Off Jalan Tun Razak, 53200 Kuala Lumpur, Malaysia
+              - paragraph: +60 3-4026 7000
+              - paragraph: pertanyaan@artgallery.gov.my
+        - generic:
+          - generic:
+            - paragraph: © 2026 Balai Seni Negara. Hak cipta terpelihara.
+            - generic:
+              - paragraph: Kemas kini terakhir 2026-09-20
+    - region "Notifications alt+T":
+      - list
+  - listbox [ref=e443]:
+    - option "Artis" [active] [ref=e444]
+    - option "Galeri" [ref=e447]
+    - option "Pengumpul Seni" [ref=e450]
+    - option "Kurator" [ref=e453]
+    - option "Penyedia Perkhidmatan" [ref=e456]
+    - option "Persatuan / NGO" [ref=e459]
+    - option "Pelajar" [ref=e462]
+    - option "Peminat Seni" [ref=e465]

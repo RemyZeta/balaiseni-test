@@ -1,0 +1,6 @@
+[   81403ms] [VERBOSE] [DOM] Password forms should have (optionally hidden) username fields for accessibility: (More info: https://goo.gl/9p2vKq) %o @ https://martp.nizamjensani.digital/password/renew:0
+[  217010ms] [VERBOSE] [DOM] Password forms should have (optionally hidden) username fields for accessibility: (More info: https://goo.gl/9p2vKq) %o @ https://martp.nizamjensani.digital/password/renew:0
+[  243673ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://martp.nizamjensani.digital/dashboard/art-for-sale:0
+[  245942ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://martp.nizamjensani.digital/dashboard/gallery:0
+[  293645ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://martp.nizamjensani.digital/dashboard/art-for-sale:0
+[  311261ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://martp.nizamjensani.digital/dashboard/art-for-sale:0

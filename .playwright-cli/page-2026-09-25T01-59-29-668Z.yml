@@ -1,0 +1,183 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Balai Seni Negara Go Gallery Balai Seni Negara" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Balai Seni Negara" [ref=e8]
+          - generic [ref=e9]:
+            - generic [ref=e10]: Go Gallery
+            - generic [ref=e11]: Balai Seni Negara
+        - navigation [ref=e315]:
+          - link "Utama" [ref=e316] [cursor=pointer]:
+            - /url: /
+          - link "Tentang" [ref=e317] [cursor=pointer]:
+            - /url: /about
+          - link "Koleksi" [ref=e318] [cursor=pointer]:
+            - /url: /collection
+          - button "Sumber" [ref=e320]
+          - button "Kedai" [ref=e324]
+          - link "Pautan" [ref=e327] [cursor=pointer]:
+            - /url: /links
+          - link "Hubungi" [ref=e328] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e329]:
+          - button "Cari di portal" [ref=e330] [cursor=pointer]
+          - group "Bahasa" [ref=e334]:
+            - generic [ref=e335]: BM
+            - generic [ref=e336]: /
+            - link "Tukar bahasa ke English" [ref=e337] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/en/register
+              - text: EN
+          - generic [ref=e338]:
+            - link "Log Masuk" [ref=e339] [cursor=pointer]:
+              - /url: /login
+            - link "Sertai Kami" [ref=e340] [cursor=pointer]:
+              - /url: /register
+    - main [ref=e19]:
+      - generic [ref=e342]:
+        - paragraph [ref=e343]: Daftar
+        - heading "Sertai Kami" [level=1] [ref=e344]
+        - paragraph [ref=e345]: Daftar sebagai pengguna portal Go Gallery. Kategori tertentu seperti Galeri dan Artis akan menerima dashboard khas.
+      - generic [ref=e347]:
+        - generic [ref=e348]:
+          - generic [ref=e349]:
+            - generic [ref=e350]: Nama
+            - textbox "Nama" [ref=e351]:
+              - /placeholder: Nama penuh / nama galeri
+          - generic [ref=e352]:
+            - generic [ref=e353]:
+              - generic [ref=e354]: Emel
+              - textbox "Emel" [ref=e355]:
+                - /placeholder: nama@emel.com
+            - generic [ref=e356]:
+              - generic [ref=e357]: No. telefon
+              - textbox "No. telefon" [ref=e358]:
+                - /placeholder: +60 12-345 6789
+          - generic [ref=e359]:
+            - generic [ref=e360]: Alamat
+            - textbox "Alamat" [ref=e361]:
+              - /placeholder: Alamat penuh
+          - generic [ref=e362]:
+            - generic [ref=e363]:
+              - generic [ref=e364]: URL laman web
+              - textbox "URL laman web" [ref=e365]:
+                - /placeholder: https://
+            - generic [ref=e366]:
+              - generic [ref=e367]: Kategori / Profesion
+              - combobox "Kategori / Profesion" [ref=e368] [cursor=pointer]:
+                - generic: Pilih kategori
+          - generic [ref=e371]:
+            - generic [ref=e372]:
+              - generic [ref=e373]: Facebook
+              - textbox "Facebook" [ref=e374]:
+                - /placeholder: facebook.com/…
+            - generic [ref=e375]:
+              - generic [ref=e376]: Instagram
+              - textbox "Instagram" [ref=e377]:
+                - /placeholder: instagram.com/…
+            - generic [ref=e378]:
+              - generic [ref=e379]: Twitter
+              - textbox "Twitter" [ref=e380]:
+                - /placeholder: twitter.com/…
+            - generic [ref=e381]:
+              - generic [ref=e382]: Youtube
+              - textbox "Youtube" [ref=e383]:
+                - /placeholder: youtube.com/…
+          - generic [ref=e384]:
+            - generic [ref=e385]: Gambar profil
+            - button "Gambar profil" [ref=e386]
+            - paragraph [ref=e387]: JPG atau PNG, maksimum 5MB.
+          - button "Daftar" [ref=e388] [cursor=pointer]
+          - paragraph [ref=e389]:
+            - text: Sudah mendaftar?
+            - link "Log masuk di sini" [ref=e390] [cursor=pointer]:
+              - /url: /login
+            - text: .
+        - complementary [ref=e391]:
+          - paragraph [ref=e392]: Selepas mendaftar
+          - heading "Modul dalam dashboard anda" [level=2] [ref=e393]
+          - list [ref=e394]:
+            - listitem [ref=e395]:
+              - generic [ref=e396]: "01"
+              - text: Profil
+            - listitem [ref=e397]:
+              - generic [ref=e398]: "02"
+              - text: Pameran & Aktiviti
+            - listitem [ref=e399]:
+              - generic [ref=e400]: "03"
+              - text: Tutorial
+            - listitem [ref=e401]:
+              - generic [ref=e402]: "04"
+              - text: Perkongsian
+            - listitem [ref=e403]:
+              - generic [ref=e404]: "05"
+              - text: Artikel
+            - listitem [ref=e405]:
+              - generic [ref=e406]: "06"
+              - text: Karya Untuk Dijual
+            - listitem [ref=e407]:
+              - generic [ref=e408]: "07"
+              - text: Perkhidmatan
+            - listitem [ref=e409]:
+              - generic [ref=e410]: "08"
+              - text: Barangan
+            - listitem [ref=e411]:
+              - generic [ref=e412]: "09"
+              - text: E-Penerbitan
+            - listitem [ref=e413]:
+              - generic [ref=e414]: "10"
+              - text: Berita
+            - listitem [ref=e415]:
+              - generic [ref=e416]: "11"
+              - text: Peti Masuk
+          - paragraph [ref=e417]: Profil artis dan galeri akan dipaparkan secara automatik di bawah modul Artis / Galeri setelah disemak oleh Admin.
+    - contentinfo [ref=e260]:
+      - generic [ref=e261]:
+        - generic [ref=e262]:
+          - paragraph [ref=e263]: Go Gallery
+          - paragraph [ref=e264]: Portal seni tampak Balai Seni Negara — menghimpunkan artis, galeri, perkhidmatan dan penerbitan seni Malaysia dalam satu ruang digital.
+          - generic [ref=e265]:
+            - link "Facebook" [ref=e266] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+            - link "Instagram" [ref=e269] [cursor=pointer]:
+              - /url: https://instagram.com/balaisenineg
+            - link "Twitter" [ref=e273] [cursor=pointer]:
+              - /url: https://x.com/balaisenineg
+            - link "YouTube" [ref=e276] [cursor=pointer]:
+              - /url: https://youtube.com/@balaisenineg
+            - link "LinkedIn" [ref=e280] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+            - link "TikTok" [ref=e285] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+            - link "Threads" [ref=e288] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+        - generic [ref=e291]:
+          - paragraph [ref=e292]: Terokai
+          - list [ref=e293]:
+            - listitem [ref=e294]:
+              - link "Pautan" [ref=e295] [cursor=pointer]:
+                - /url: /links
+            - listitem [ref=e296]:
+              - link "Tentang" [ref=e297] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e298]:
+              - link "Karya Untuk Dijual" [ref=e299] [cursor=pointer]:
+                - /url: /shop/art-for-sale
+            - listitem [ref=e300]:
+              - link "Pameran & Aktiviti" [ref=e301] [cursor=pointer]:
+                - /url: /resources/exhibitions
+            - listitem [ref=e302]:
+              - link "Koleksi Tetap BSN" [ref=e303] [cursor=pointer]:
+                - /url: /resources/nag-collection
+        - generic [ref=e304]:
+          - paragraph [ref=e305]: Hubungi
+          - generic [ref=e306]:
+            - paragraph [ref=e307]: 2, Jalan Temerloh, Off Jalan Tun Razak, 53200 Kuala Lumpur, Malaysia
+            - paragraph [ref=e308]: +60 3-4026 7000
+            - paragraph [ref=e309]: pertanyaan@artgallery.gov.my
+      - generic [ref=e311]:
+        - paragraph [ref=e312]: © 2026 Balai Seni Negara. Hak cipta terpelihara.
+        - paragraph [ref=e314]: Kemas kini terakhir 2026-09-20
+  - region "Notifications alt+T":
+    - list
