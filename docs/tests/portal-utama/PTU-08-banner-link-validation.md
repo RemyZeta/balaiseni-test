@@ -21,3 +21,6 @@ Saved without any error. At render time the value is mangled to `lert(1)` (a rel
 
 ## Evidence
 ![jslink](evidence/ptu-banner-jslink.png) ![slide](evidence/ptu-banner-qa-slide.png)
+
+## Retest 2026-10-01
+**PASS (fixed)**. See [RT-PTU-08](../retest-2026-10-01/RT-PTU-08.md).

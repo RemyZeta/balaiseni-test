@@ -1,0 +1,165 @@
+- generic [ref=f1e3]:
+  - complementary "Navigasi panel" [ref=f1e4]:
+    - generic [ref=f1e5]:
+      - generic [ref=f1e6]: ◆
+      - generic [ref=f1e7]:
+        - generic [ref=f1e8]: Go Gallery
+        - generic [ref=f1e9]: Panel Pentadbiran
+    - navigation [ref=f1e10]:
+      - generic [ref=f1e11]:
+        - paragraph [ref=f1e12]: Utama
+        - list [ref=f1e13]:
+          - listitem [ref=f1e14]:
+            - link "Papan Utama" [ref=f1e15] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard
+              - generic [ref=f1e16]: ◆
+      - generic [ref=f1e18]:
+        - paragraph [ref=f1e19]: Kandungan
+        - list [ref=f1e20]:
+          - listitem [ref=f1e21]:
+            - link "Tutorial" [ref=f1e22] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/tutorials
+              - generic [ref=f1e23]: T
+          - listitem [ref=f1e25]:
+            - link "Perkongsian" [ref=f1e26] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/sharings
+              - generic [ref=f1e27]: K
+          - listitem [ref=f1e29]:
+            - link "Koleksi" [ref=f1e30] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/collection
+              - generic [ref=f1e31]: K
+      - generic [ref=f1e33]:
+        - paragraph [ref=f1e34]: Kedai
+        - list [ref=f1e35]:
+          - listitem [ref=f1e36]:
+            - link "Art For Sale" [ref=f1e37] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/art-for-sale
+              - generic [ref=f1e38]: S
+      - generic [ref=f1e40]:
+        - paragraph [ref=f1e41]: Akaun
+        - list [ref=f1e42]:
+          - listitem [ref=f1e43]:
+            - link "Profil Saya" [ref=f1e44] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/profile
+              - generic [ref=f1e45]: U
+          - listitem [ref=f1e47]:
+            - link "Inbox" [ref=f1e48] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/inbox
+              - generic [ref=f1e49]: I
+  - generic [ref=f1e51]:
+    - banner [ref=f1e52]:
+      - navigation "Lokasi semasa" [ref=f1e53]: Profil Saya
+      - generic [ref=f1e54]:
+        - group "Bahasa" [ref=f1e55]:
+          - generic [ref=f1e56]: BM
+          - generic [ref=f1e57]: /
+          - link "Tukar bahasa ke English" [ref=f1e58] [cursor=pointer]:
+            - /url: https://martp.nizamjensani.digital/locale/en?from=%2Fdashboard%2Fprofile
+            - text: EN
+        - button "Lihat portal" [ref=f1e59] [cursor=pointer]
+        - button "Notifikasi" [ref=f1e60] [cursor=pointer]
+        - button "Menu akaun" [ref=f1e64] [cursor=pointer]
+    - main [ref=f1e65]:
+      - generic [ref=f1e66]:
+        - generic [ref=f1e67]:
+          - generic [ref=f1e68]: U
+          - generic [ref=f1e69]:
+            - heading "Profil Saya" [level=1] [ref=f1e70]
+            - paragraph [ref=f1e71]: Maklumat ini dipaparkan pada direktori awam portal.
+        - generic [ref=f1e72]:
+          - generic [ref=f1e73]:
+            - generic [ref=f1e74]:
+              - heading "Gambar" [level=2] [ref=f1e75]
+              - paragraph [ref=f1e76]: JPG, PNG, WebP, AVIF atau GIF. Maksimum 5 MB. Gambar HEIC dari iPhone perlu ditukar ke JPG dahulu.
+              - generic [ref=f1e77]:
+                - img "QA Test Artis" [ref=f1e78]
+                - generic [ref=f1e79]:
+                  - button "Tukar gambar" [ref=f1e80]
+                  - button "Buang gambar" [ref=f1e81]
+            - generic [ref=f1e82]:
+              - generic [ref=f1e83]:
+                - heading "Tentang anda" [level=2] [ref=f1e84]
+                - paragraph [ref=f1e85]: Latar belakang ringkas, disiplin dan pencapaian. Dipaparkan pada profil awam anda.
+                - generic [ref=f1e86]: Tentang
+                - textbox "Tentang" [ref=f1e87]
+                - paragraph [ref=f1e88]: 0 / 2000
+              - generic [ref=f1e89]:
+                - heading "Hubungan" [level=2] [ref=f1e90]
+                - generic [ref=f1e91]:
+                  - generic [ref=f1e92]:
+                    - generic [ref=f1e93]: Telefon
+                    - textbox "Telefon" [ref=f1e94]: +60 12-345 6789
+                  - generic [ref=f1e95]:
+                    - generic [ref=f1e96]: Laman web
+                    - textbox "Laman web" [ref=f1e97]
+                    - paragraph [ref=f1e98]: Sertakan https://
+              - generic [ref=f1e99]:
+                - heading "Alamat" [level=2] [ref=f1e100]
+                - generic [ref=f1e101]:
+                  - generic [ref=f1e102]:
+                    - generic [ref=f1e103]: Alamat baris 1
+                    - textbox "Alamat baris 1" [ref=f1e104]: 1 Jalan Ujian, Kuala Lumpur
+                  - generic [ref=f1e105]:
+                    - generic [ref=f1e106]: Alamat baris 2
+                    - textbox "Alamat baris 2" [ref=f1e107]
+                  - generic [ref=f1e108]:
+                    - generic [ref=f1e109]: Bandar
+                    - textbox "Bandar" [ref=f1e110]
+                  - generic [ref=f1e111]:
+                    - generic [ref=f1e112]: Negeri
+                    - textbox "Negeri" [ref=f1e113]
+                  - generic [ref=f1e114]:
+                    - generic [ref=f1e115]: Poskod
+                    - textbox "Poskod" [ref=f1e116]
+                  - generic [ref=f1e117]:
+                    - generic [ref=f1e118]: Negara
+                    - textbox "Negara" [ref=f1e119]
+              - generic [ref=f1e120]:
+                - heading "Media sosial" [level=2] [ref=f1e121]
+                - paragraph [ref=f1e122]: Satu pautan sudah memadai. Semuanya pilihan.
+                - generic [ref=f1e123]:
+                  - generic [ref=f1e124]:
+                    - generic [ref=f1e125]: Facebook
+                    - textbox "Facebook" [ref=f1e126]:
+                      - /placeholder: https://
+                  - generic [ref=f1e127]:
+                    - generic [ref=f1e128]: Instagram
+                    - textbox "Instagram" [ref=f1e129]:
+                      - /placeholder: https://
+                  - generic [ref=f1e130]:
+                    - generic [ref=f1e131]: X / Twitter
+                    - textbox "X / Twitter" [ref=f1e132]:
+                      - /placeholder: https://
+                  - generic [ref=f1e133]:
+                    - generic [ref=f1e134]: YouTube
+                    - textbox "YouTube" [ref=f1e135]:
+                      - /placeholder: https://
+              - button "Simpan profil" [ref=f1e137]
+          - complementary [ref=f1e138]:
+            - generic [ref=f1e139]:
+              - generic [ref=f1e140]:
+                - heading "Kelengkapan profil" [level=2] [ref=f1e141]
+                - generic [ref=f1e142]: 33%
+              - paragraph [ref=f1e145]: 3 daripada 9 medan diisi
+              - paragraph [ref=f1e146]: Masih tinggal
+              - list [ref=f1e147]:
+                - listitem [ref=f1e148]: tentang
+                - listitem [ref=f1e149]: laman web
+                - listitem [ref=f1e150]: bandar
+                - listitem [ref=f1e151]: negeri
+                - listitem [ref=f1e152]: negara
+                - listitem [ref=f1e153]: pautan media sosial
+            - generic [ref=f1e154]:
+              - heading "Status direktori awam" [level=2] [ref=f1e156]
+              - paragraph [ref=f1e157]: Menunggu semakan pentadbir. Profil anda belum dipaparkan.
+              - generic [ref=f1e158]:
+                - paragraph [ref=f1e159]: Kategori pendaftaran
+                - paragraph [ref=f1e160]: Artis
+                - paragraph [ref=f1e161]: Kategori menentukan peranan anda dan tempat anda muncul dalam direktori, jadi hanya pentadbir boleh mengubahnya.
+            - paragraph [ref=f1e162]:
+              - text: Nama dan emel diuruskan dalam
+              - link "tetapan akaun" [ref=f1e163] [cursor=pointer]:
+                - /url: /settings/profile
+              - text: .
+  - region "Notifications alt+T":
+    - list

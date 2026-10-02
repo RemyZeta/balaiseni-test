@@ -22,3 +22,6 @@ Both stay **Diluluskan** and the new title is public immediately, with no re-rev
 
 ## Evidence
 ![edit](evidence/kol-artis-edit.png)
+
+## Retest 2026-10-01
+**PASS (fixed)**. See [RT-KOL-10](../retest-2026-10-01/RT-KOL-10.md).

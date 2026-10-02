@@ -21,3 +21,6 @@ Form: Nama (100), Emel (255), Mesej (2000). Empty and invalid-email submissions 
 
 ## Evidence
 ![form](evidence/afs-contact-form.png) ![captcha](evidence/afs-contact-sent.png)
+
+## Retest 2026-10-01
+**BLOCKED (reCAPTCHA)**. See [RT-AFS-08](../retest-2026-10-01/RT-AFS-08.md).

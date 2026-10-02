@@ -22,3 +22,6 @@ Fields pre-filled correctly. After saving the galeri stays **Diluluskan** and th
 
 ## Evidence
 ![edit](evidence/gal-edit.png)
+
+## Retest 2026-10-01
+**PASS (fixed)**. See [RT-GAL-09](../retest-2026-10-01/RT-GAL-09.md).

@@ -21,3 +21,6 @@ The listing stays **Diluluskan**, and the new title and price **RM 9,999** are p
 
 ## Evidence
 ![edit](evidence/afs-artist-edit.png)
+
+## Retest 2026-10-01
+**PASS (fixed)**. See [RT-AFS-10](../retest-2026-10-01/RT-AFS-10.md).

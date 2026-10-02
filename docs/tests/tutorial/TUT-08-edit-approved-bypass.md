@@ -22,3 +22,6 @@ Either the item returns to 'Menunggu semakan' or the change waits for admin re-a
 
 ## Evidence
 TUT-080
+
+## Retest 2026-10-01
+**PASS (fixed)**. See [RT-TUT-08](../retest-2026-10-01/RT-TUT-08.md).

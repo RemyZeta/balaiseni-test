@@ -1,0 +1,165 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Balai Seni Negara Go Gallery Balai Seni Negara" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Balai Seni Negara" [ref=e8]
+          - generic [ref=e9]:
+            - generic [ref=e10]: Go Gallery
+            - generic [ref=e11]: Balai Seni Negara
+        - generic [ref=e12]:
+          - button "Cari di portal" [ref=e13] [cursor=pointer]
+          - button "Buka menu" [ref=e17] [cursor=pointer]
+    - main [ref=e19]:
+      - generic [ref=e22]:
+        - paragraph [ref=e23]: Log Masuk
+        - heading "Masuk ke dashboard" [level=1] [ref=e24]
+        - paragraph [ref=e25]: Uruskan 11 modul anda — daripada profil hingga Peti Masuk pertanyaan pembeli.
+        - generic [ref=e26]:
+          - generic [ref=e27]:
+            - generic [ref=e28]: Emel
+            - textbox "Emel" [ref=e29]:
+              - /placeholder: nama@emel.com
+          - generic [ref=e30]:
+            - generic [ref=e31]: Kata laluan
+            - textbox "Kata laluan" [ref=e32]:
+              - /placeholder: ••••••••
+          - generic [ref=e33]:
+            - generic [ref=e34] [cursor=pointer]:
+              - checkbox "Ingat saya" [ref=e35]
+              - text: Ingat saya
+            - link "Lupa kata laluan?" [ref=e36] [cursor=pointer]:
+              - /url: /forgot-password
+          - button "Log Masuk" [ref=e37] [cursor=pointer]
+        - generic [ref=e38]: atau
+        - link "Log masuk dengan Google" [ref=e41] [cursor=pointer]:
+          - /url: /auth/google/login
+        - paragraph [ref=e42]:
+          - text: Belum berdaftar?
+          - link "Daftar di sini" [ref=e43] [cursor=pointer]:
+            - /url: /register
+          - text: .
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - generic [ref=e46]: Pembangunan sahaja
+            - heading "Log masuk pantas" [level=2] [ref=e47]
+          - paragraph [ref=e48]: Pilih akaun untuk terus log masuk tanpa kata laluan. Panel ini tidak wujud pada produksi.
+          - generic [ref=e49]:
+            - paragraph [ref=e50]: Super Admin
+            - generic [ref=e51]:
+              - button "Webmaster mil7@yahoo.com" [ref=e52] [cursor=pointer]:
+                - generic [ref=e53]: Webmaster
+                - generic [ref=e54]: mil7@yahoo.com
+              - button "Mohd Amir izzudin@artgallery.gov.my" [ref=e55] [cursor=pointer]:
+                - generic [ref=e56]: Mohd Amir
+                - generic [ref=e57]: izzudin@artgallery.gov.my
+          - generic [ref=e58]:
+            - paragraph [ref=e59]: Admin
+            - generic [ref=e60]:
+              - button "Ahmad Safwan safwan@artgallery.gov.my" [ref=e61] [cursor=pointer]:
+                - generic [ref=e62]: Ahmad Safwan
+                - generic [ref=e63]: safwan@artgallery.gov.my
+              - button "Syamsiah syamsiah1197@yahoo.com" [ref=e64] [cursor=pointer]:
+                - generic [ref=e65]: Syamsiah
+                - generic [ref=e66]: syamsiah1197@yahoo.com
+              - button "Intan Rafiza intan@artgallery.gov.my" [ref=e67] [cursor=pointer]:
+                - generic [ref=e68]: Intan Rafiza
+                - generic [ref=e69]: intan@artgallery.gov.my
+          - generic [ref=e70]:
+            - paragraph [ref=e71]: Artist
+            - generic [ref=e72]:
+              - button "Mohd Adzran Bin Omar adzran8992@gmail.com" [ref=e73] [cursor=pointer]:
+                - generic [ref=e74]: Mohd Adzran Bin Omar
+                - generic [ref=e75]: adzran8992@gmail.com
+              - button "Mohd Shafiz Bin Md Shah ps.visual19@gmail.com" [ref=e76] [cursor=pointer]:
+                - generic [ref=e77]: Mohd Shafiz Bin Md Shah
+                - generic [ref=e78]: ps.visual19@gmail.com
+              - button "Wan Hairuddin Wan Yaacob whairuddin@gmail.com" [ref=e79] [cursor=pointer]:
+                - generic [ref=e80]: Wan Hairuddin Wan Yaacob
+                - generic [ref=e81]: whairuddin@gmail.com
+              - button "Mohd Ridzwan Mat mohdridzwanmat@gmail.com" [ref=e82] [cursor=pointer]:
+                - generic [ref=e83]: Mohd Ridzwan Mat
+                - generic [ref=e84]: mohdridzwanmat@gmail.com
+          - generic [ref=e85]:
+            - paragraph [ref=e86]: Gallery
+            - generic [ref=e87]:
+              - button "Fakhrul Zaman B. Mohd. Sambas hujungtanahartresidency@gmail.com" [ref=e88] [cursor=pointer]:
+                - generic [ref=e89]: Fakhrul Zaman B. Mohd. Sambas
+                - generic [ref=e90]: hujungtanahartresidency@gmail.com
+              - button "Arto Movement artomovement10@gmail.com" [ref=e91] [cursor=pointer]:
+                - generic [ref=e92]: Arto Movement
+                - generic [ref=e93]: artomovement10@gmail.com
+              - button "ZuhudÂ´Ulya Bin Iberahim Zuhud.ulya@gmail.com" [ref=e94] [cursor=pointer]:
+                - generic [ref=e95]: ZuhudÂ´Ulya Bin Iberahim
+                - generic [ref=e96]: Zuhud.ulya@gmail.com
+              - button "Jaafar Ismail exhibitions@fergana-art.com" [ref=e97] [cursor=pointer]:
+                - generic [ref=e98]: Jaafar Ismail
+                - generic [ref=e99]: exhibitions@fergana-art.com
+          - generic [ref=e100]:
+            - paragraph [ref=e101]: Member
+            - generic [ref=e102]:
+              - button "RAZIWAFA wafacw@gmail.com" [ref=e103] [cursor=pointer]:
+                - generic [ref=e104]: RAZIWAFA
+                - generic [ref=e105]: wafacw@gmail.com
+              - button "Norazua azuafaizal97@gmail.com" [ref=e106] [cursor=pointer]:
+                - generic [ref=e107]: Norazua
+                - generic [ref=e108]: azuafaizal97@gmail.com
+              - button "muhammad faiz faiz@artgallery.gov.my" [ref=e109] [cursor=pointer]:
+                - generic [ref=e110]: muhammad faiz
+                - generic [ref=e111]: faiz@artgallery.gov.my
+              - button "Othman othman@artgallery.gov.my" [ref=e112] [cursor=pointer]:
+                - generic [ref=e113]: Othman
+                - generic [ref=e114]: othman@artgallery.gov.my
+    - contentinfo [ref=e115]:
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - paragraph [ref=e118]: Go Gallery
+          - paragraph [ref=e119]: Portal seni tampak Balai Seni Negara — menghimpunkan artis, galeri, perkhidmatan dan penerbitan seni Malaysia dalam satu ruang digital.
+          - generic [ref=e120]:
+            - link "Facebook" [ref=e121] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+            - link "Instagram" [ref=e124] [cursor=pointer]:
+              - /url: https://instagram.com/balaisenineg
+            - link "Twitter" [ref=e128] [cursor=pointer]:
+              - /url: https://x.com/balaisenineg
+            - link "YouTube" [ref=e131] [cursor=pointer]:
+              - /url: https://youtube.com/@balaisenineg
+            - link "LinkedIn" [ref=e135] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+            - link "TikTok" [ref=e140] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+            - link "Threads" [ref=e143] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+        - generic [ref=e146]:
+          - paragraph [ref=e147]: Terokai
+          - list [ref=e148]:
+            - listitem [ref=e149]:
+              - link "Pautan" [ref=e150] [cursor=pointer]:
+                - /url: /links
+            - listitem [ref=e151]:
+              - link "Tentang" [ref=e152] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e153]:
+              - link "Karya Untuk Dijual" [ref=e154] [cursor=pointer]:
+                - /url: /shop/art-for-sale
+            - listitem [ref=e155]:
+              - link "Pameran & Aktiviti" [ref=e156] [cursor=pointer]:
+                - /url: /resources/exhibitions
+            - listitem [ref=e157]:
+              - link "Koleksi Tetap BSN" [ref=e158] [cursor=pointer]:
+                - /url: /resources/nag-collection
+        - generic [ref=e159]:
+          - paragraph [ref=e160]: Hubungi
+          - generic [ref=e161]:
+            - paragraph [ref=e162]: 2, Jalan Temerloh, Off Jalan Tun Razak, 53200 Kuala Lumpur, Malaysia
+            - paragraph [ref=e163]: +60 3-4026 7000
+            - paragraph [ref=e164]: pertanyaan@artgallery.gov.my
+      - generic [ref=e166]:
+        - paragraph [ref=e167]: © 2026 Balai Seni Negara. Hak cipta terpelihara.
+        - generic [ref=e168]:
+          - link "Dasar Privasi" [ref=e169] [cursor=pointer]:
+            - /url: /page/dasar-privasi
+          - paragraph [ref=e170]: Kemas kini terakhir 2026-09-20
+  - region "Notifications alt+T":
+    - list

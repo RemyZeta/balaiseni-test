@@ -1,0 +1,102 @@
+- generic [ref=f31e3]:
+  - complementary "Navigasi panel" [ref=f31e4]:
+    - generic [ref=f31e5]:
+      - generic [ref=f31e6]: ◆
+      - generic [ref=f31e7]:
+        - generic [ref=f31e8]: Go Gallery
+        - generic [ref=f31e9]: Panel Pentadbiran
+    - navigation [ref=f31e10]:
+      - generic [ref=f31e11]:
+        - paragraph [ref=f31e12]: Utama
+        - list [ref=f31e13]:
+          - listitem [ref=f31e14]:
+            - link "Papan Utama" [ref=f31e15] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard
+              - generic [ref=f31e16]: ◆
+      - generic [ref=f31e18]:
+        - paragraph [ref=f31e19]: Kandungan
+        - list [ref=f31e20]:
+          - listitem [ref=f31e21]:
+            - link "Tutorial" [ref=f31e22] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/tutorials
+              - generic [ref=f31e23]: T
+          - listitem [ref=f31e25]:
+            - link "Perkongsian" [ref=f31e26] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/sharings
+              - generic [ref=f31e27]: K
+          - listitem [ref=f31e29]:
+            - link "Koleksi" [ref=f31e30] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/collection
+              - generic [ref=f31e31]: K
+      - generic [ref=f31e33]:
+        - paragraph [ref=f31e34]: Kedai
+        - list [ref=f31e35]:
+          - listitem [ref=f31e36]:
+            - link "Art For Sale" [ref=f31e37] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/art-for-sale
+              - generic [ref=f31e38]: S
+      - generic [ref=f31e40]:
+        - paragraph [ref=f31e41]: Akaun
+        - list [ref=f31e42]:
+          - listitem [ref=f31e43]:
+            - link "Profil Saya" [ref=f31e44] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/profile
+              - generic [ref=f31e45]: U
+          - listitem [ref=f31e47]:
+            - link "Inbox" [ref=f31e48] [cursor=pointer]:
+              - /url: https://martp.nizamjensani.digital/dashboard/inbox
+              - generic [ref=f31e49]: I
+  - generic [ref=f31e51]:
+    - banner [ref=f31e52]:
+      - navigation "Lokasi semasa" [ref=f31e53]: Tetapan profil
+      - generic [ref=f31e54]:
+        - group "Bahasa" [ref=f31e55]:
+          - generic [ref=f31e56]: BM
+          - generic [ref=f31e57]: /
+          - link "Tukar bahasa ke English" [ref=f31e58] [cursor=pointer]:
+            - /url: https://martp.nizamjensani.digital/locale/en?from=%2Fsettings%2Fprofile
+            - text: EN
+        - button "Lihat portal" [ref=f31e59] [cursor=pointer]
+        - button "Notifikasi" [ref=f31e60] [cursor=pointer]
+        - button "Menu akaun" [ref=f31e64] [cursor=pointer]: QT
+    - main [ref=f31e65]:
+      - generic [ref=f31e66]:
+        - generic [ref=f31e67]:
+          - heading "Tetapan" [level=2] [ref=f31e68]
+          - paragraph [ref=f31e69]: Uruskan profil dan tetapan akaun anda
+        - generic [ref=f31e70]:
+          - complementary [ref=f31e71]:
+            - navigation "Tetapan" [ref=f31e72]:
+              - link "Profil" [ref=f31e73] [cursor=pointer]:
+                - /url: /settings/profile
+              - link "Keselamatan" [ref=f31e74] [cursor=pointer]:
+                - /url: /settings/security
+              - link "Penampilan" [ref=f31e75] [cursor=pointer]:
+                - /url: /settings/appearance
+          - generic [ref=f31e77]:
+            - heading "Tetapan profil" [level=1] [ref=f31e78]
+            - generic [ref=f31e79]:
+              - generic [ref=f31e80]:
+                - heading "Profil" [level=2] [ref=f31e81]
+                - paragraph [ref=f31e82]: Kemas kini nama dan alamat emel anda
+              - generic [ref=f31e83]:
+                - generic [ref=f31e84]:
+                  - generic [ref=f31e85]: Nama
+                  - textbox "Nama" [ref=f31e86]:
+                    - /placeholder: Nama penuh
+                    - text: QA Test Artis
+                - generic [ref=f31e87]:
+                  - generic [ref=f31e88]: Alamat emel
+                  - textbox "Alamat emel" [ref=f31e89]: qa.artis.test01@mailinator.com
+                - button "Simpan" [ref=f31e91]
+            - generic [ref=f31e92]:
+              - generic [ref=f31e93]:
+                - heading "Padam akaun" [level=2] [ref=f31e94]
+                - paragraph [ref=f31e95]: Padam akaun anda dan semua sumbernya
+              - generic [ref=f31e96]:
+                - generic [ref=f31e97]:
+                  - paragraph [ref=f31e98]: Amaran
+                  - paragraph [ref=f31e99]: Sila teruskan dengan berhati-hati, tindakan ini tidak boleh dibatalkan.
+                - button "Padam akaun" [ref=f31e100]
+  - region "Notifications alt+T":
+    - list

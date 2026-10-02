@@ -22,3 +22,6 @@ Both rejected with a clear message.
 
 ## Evidence
 ![invalid](evidence/ptn-invalid.png) ![js](evidence/ptn-js-public.png)
+
+## Retest 2026-10-01
+**PASS (fixed)**. See [RT-PTN-05](../retest-2026-10-01/RT-PTN-05.md).

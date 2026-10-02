@@ -22,3 +22,6 @@ Toast 'telah dikemas kini' but the type **did not change** — the item stays 'K
 
 ## Evidence
 ![selected](evidence/kol-koleksi-selected.png) ![toggle](evidence/kol-edit-toggle.png)
+
+## Retest 2026-10-01
+**PASS (fixed)**. See [RT-KOL-09](../retest-2026-10-01/RT-KOL-09.md).

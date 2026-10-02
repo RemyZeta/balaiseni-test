@@ -21,3 +21,6 @@ Dialog opens with Nama, Emel, Mesej and a reCAPTCHA (same as Art For Sale and Pe
 
 ## Evidence
 -
+
+## Retest 2026-10-01
+**BLOCKED (reCAPTCHA)**. See [RT-MER-06](../retest-2026-10-01/RT-MER-06.md).

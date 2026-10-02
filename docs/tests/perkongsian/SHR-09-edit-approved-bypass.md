@@ -21,3 +21,6 @@ Item returns to review, or change waits for approval.
 
 ## Evidence
 -
+
+## Retest 2026-10-01
+**PASS (fixed)**. See [RT-SHR-09](../retest-2026-10-01/RT-SHR-09.md).

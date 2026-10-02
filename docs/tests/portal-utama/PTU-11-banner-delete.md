@@ -20,3 +20,6 @@ A confirmation dialog like the other modules, then removal.
 
 ## Evidence
 ![home](evidence/ptu-home-final.png)
+
+## Retest 2026-10-01
+**PASS (fixed)**. See [RT-PTU-11](../retest-2026-10-01/RT-PTU-11.md).

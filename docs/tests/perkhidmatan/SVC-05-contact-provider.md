@@ -21,3 +21,6 @@ Dialog opens ('Mesej anda akan dihantar kepada QA Penyedia berkenaan “…”')
 
 ## Evidence
 ![contact](evidence/svc-contact.png)
+
+## Retest 2026-10-01
+**BLOCKED (reCAPTCHA)**. See [RT-SVC-05](../retest-2026-10-01/RT-SVC-05.md).

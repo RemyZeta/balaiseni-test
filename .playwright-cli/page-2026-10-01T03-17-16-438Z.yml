@@ -1,0 +1,321 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Balai Seni Negara Go Gallery Balai Seni Negara" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Balai Seni Negara" [ref=e8]
+          - generic [ref=e9]:
+            - generic [ref=e10]: Go Gallery
+            - generic [ref=e11]: Balai Seni Negara
+        - generic [ref=e12]:
+          - button "Cari di portal" [ref=e13] [cursor=pointer]
+          - button "Buka menu" [ref=e17] [cursor=pointer]
+    - main [ref=e19]:
+      - generic [ref=e21]:
+        - img "Satu portal untuk seni tampak Malaysia." [ref=e22]
+        - generic [ref=e25]:
+          - paragraph [ref=e26]: Balai Seni Negara · Go Gallery
+          - heading "Satu portal untuk seni tampak Malaysia." [level=1] [ref=e27]
+          - paragraph [ref=e28]: Karya untuk dijual, perkhidmatan industri, pameran, tutorial, penerbitan dan koleksi tetap negara — dimuat naik oleh artis, galeri dan penggiat seni berdaftar.
+          - generic [ref=e29]:
+            - link "Sertai Kami" [ref=e30] [cursor=pointer]:
+              - /url: /register
+            - link "Terokai Art For Sale" [ref=e31] [cursor=pointer]:
+              - /url: /shop/art-for-sale
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - paragraph [ref=e36]: Perutusan
+          - heading "Selamat Datang ke GoGallery" [level=2] [ref=e37]
+          - generic [ref=e38]:
+            - paragraph [ref=e39]: Admin GoGallery
+            - paragraph [ref=e40]: Pengarah
+        - generic [ref=e41]:
+          - paragraph [ref=e42]: Go Gallery ialah portal seni tampak Balai Seni Negara — sebuah ruang digital yang menghimpunkan artis, galeri, penyedia perkhidmatan dan peminat seni Malaysia di bawah satu bumbung. Melalui portal ini, penggiat seni berdaftar boleh memuat naik karya untuk dijual, mengiklankan perkhidmatan industri, menyenaraikan pameran dan aktiviti, berkongsi tutorial serta menerbitkan artikel dan e-penerbitan. Kami percaya bahawa akses kepada seni adalah hak semua. Go Gallery dibina untuk merapatkan jurang antara pencipta dan penonton, sambil mengekalkan integriti dan ketelusan dalam setiap transaksi.
+          - link "Baca penuh di Tentang Kami" [ref=e43] [cursor=pointer]:
+            - /url: /about
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47]:
+            - paragraph [ref=e48]: Pengumuman
+            - heading "Pameran Semasa" [level=2] [ref=e49]
+          - link "Lihat semua" [ref=e50] [cursor=pointer]:
+            - /url: /resources/exhibitions
+        - generic [ref=e51]:
+          - article [ref=e52]:
+            - link [ref=e53] [cursor=pointer]:
+              - /url: /resources/exhibitions/pameran-maya-20-seleksi-koleksi-galeri-shah-alam
+              - img "Pameran Maya 20 Seleksi Koleksi Galeri Shah Alam" [ref=e54]
+            - generic [ref=e55]:
+              - generic [ref=e56]:
+                - paragraph [ref=e57]: Webmaster
+                - generic [ref=e58]: Pameran
+              - heading [level=3] [ref=e59]:
+                - link "Pameran Maya 20 Seleksi Koleksi Galeri Shah Alam" [ref=e60] [cursor=pointer]:
+                  - /url: /resources/exhibitions/pameran-maya-20-seleksi-koleksi-galeri-shah-alam
+              - paragraph [ref=e61]: 18 Jan 2021
+              - paragraph
+          - article [ref=e63]:
+            - link [ref=e64] [cursor=pointer]:
+              - /url: /resources/exhibitions/furiends-portrayals-of-cats-dogs
+              - 'img "FURiends: Portrayals of Cats & Dogs" [ref=e65]'
+            - generic [ref=e66]:
+              - generic [ref=e67]:
+                - paragraph [ref=e68]: Webmaster
+                - generic [ref=e69]: Pameran
+              - heading [level=3] [ref=e70]:
+                - 'link "FURiends: Portrayals of Cats & Dogs" [ref=e71] [cursor=pointer]':
+                  - /url: /resources/exhibitions/furiends-portrayals-of-cats-dogs
+              - paragraph [ref=e72]: 8 Dis 2020
+              - paragraph
+          - article [ref=e74]:
+            - link [ref=e75] [cursor=pointer]:
+              - /url: /resources/exhibitions/bapa-borek-anak-rintik
+              - img "Bapa Borek Anak Rintik" [ref=e76]
+            - generic [ref=e77]:
+              - generic [ref=e78]:
+                - paragraph [ref=e79]: Webmaster
+                - generic [ref=e80]: Pameran
+              - heading [level=3] [ref=e81]:
+                - link "Bapa Borek Anak Rintik" [ref=e82] [cursor=pointer]:
+                  - /url: /resources/exhibitions/bapa-borek-anak-rintik
+              - paragraph [ref=e83]: 6 Dis 2020
+              - paragraph [ref=e84]: Pameran duo solo, anak (Ibrahim KSani) dan bapa (Sani Ismail).
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - paragraph [ref=e90]: Program
+            - heading "Aktiviti & Program" [level=2] [ref=e91]
+          - link "Lihat semua" [ref=e92] [cursor=pointer]:
+            - /url: /resources/exhibitions
+        - generic [ref=e93]:
+          - article [ref=e94]:
+            - link [ref=e95] [cursor=pointer]:
+              - /url: /resources/exhibitions/international-conference-on-museums
+              - img "International Virtual Conference on Museums" [ref=e96]
+            - generic [ref=e97]:
+              - generic [ref=e98]:
+                - paragraph [ref=e99]: Webmaster
+                - generic [ref=e100]: Aktiviti
+              - heading [level=3] [ref=e101]:
+                - link "International Virtual Conference on Museums" [ref=e102] [cursor=pointer]:
+                  - /url: /resources/exhibitions/international-conference-on-museums
+              - paragraph [ref=e103]: 11 Dis 2020
+              - paragraph
+          - article [ref=e105]:
+            - link [ref=e106] [cursor=pointer]:
+              - /url: /resources/exhibitions/catatlakar-borak-arca-episod-sembilan-belas
+              - 'img "CatatLakar: Borak Arca Episod Sembilan Belas" [ref=e107]'
+            - generic [ref=e108]:
+              - generic [ref=e109]:
+                - paragraph [ref=e110]: Webmaster
+                - generic [ref=e111]: Aktiviti
+              - heading [level=3] [ref=e112]:
+                - 'link "CatatLakar: Borak Arca Episod Sembilan Belas" [ref=e113] [cursor=pointer]':
+                  - /url: /resources/exhibitions/catatlakar-borak-arca-episod-sembilan-belas
+              - paragraph [ref=e114]: 8 Dis 2020
+              - paragraph
+          - article [ref=e116]:
+            - link [ref=e117] [cursor=pointer]:
+              - /url: /resources/exhibitions/sesi-perkongsian-penggiat-seni-november-2020
+              - img "SESI PERKONGSIAN PENGGIAT SENI NOVEMBER 2020" [ref=e118]
+            - generic [ref=e119]:
+              - generic [ref=e120]:
+                - paragraph [ref=e121]: Webmaster
+                - generic [ref=e122]: Aktiviti
+              - heading [level=3] [ref=e123]:
+                - link "SESI PERKONGSIAN PENGGIAT SENI NOVEMBER 2020" [ref=e124] [cursor=pointer]:
+                  - /url: /resources/exhibitions/sesi-perkongsian-penggiat-seni-november-2020
+              - paragraph [ref=e125]: 25 Nov 2020
+              - paragraph
+      - generic [ref=e128]:
+        - generic [ref=e129]:
+          - generic [ref=e130]:
+            - paragraph [ref=e131]: Belajar & berkongsi
+            - heading "Tutorial & Perkongsian" [level=2] [ref=e132]
+          - link "Lihat semua" [ref=e133] [cursor=pointer]:
+            - /url: /resources/tutorials
+        - generic [ref=e134]:
+          - article [ref=e135]:
+            - link [ref=e136] [cursor=pointer]:
+              - /url: /resources/tutorials/test-tutorial-1
+              - img "test tutorial 1" [ref=e137]
+            - generic [ref=e138]:
+              - generic [ref=e139]:
+                - paragraph [ref=e140]: Gallery test
+                - generic [ref=e141]: Tutorial
+              - heading [level=3] [ref=e142]:
+                - link "test tutorial 1" [ref=e143] [cursor=pointer]:
+                  - /url: /resources/tutorials/test-tutorial-1
+              - paragraph [ref=e144]: ef3vr33
+          - article [ref=e146]:
+            - link [ref=e147] [cursor=pointer]:
+              - /url: /resources/tutorials/already-written-3085
+              - img "already written" [ref=e148]
+            - generic [ref=e149]:
+              - generic [ref=e150]:
+                - paragraph [ref=e151]: Webmaster
+                - generic [ref=e152]: Tutorial
+              - heading [level=3] [ref=e153]:
+                - link "already written" [ref=e154] [cursor=pointer]:
+                  - /url: /resources/tutorials/already-written-3085
+              - paragraph
+          - article [ref=e156]:
+            - link [ref=e157] [cursor=pointer]:
+              - /url: /resources/sharings/test-perkongsian-1
+              - img "test perkongsian 1" [ref=e158]
+            - generic [ref=e159]:
+              - generic [ref=e160]:
+                - paragraph [ref=e161]: Gallery test
+                - generic [ref=e162]: Perkongsian
+              - heading [level=3] [ref=e163]:
+                - link "test perkongsian 1" [ref=e164] [cursor=pointer]:
+                  - /url: /resources/sharings/test-perkongsian-1
+              - paragraph [ref=e165]: zvfsvwgrggrwrwg
+      - generic [ref=e168]:
+        - generic [ref=e169]:
+          - generic [ref=e170]:
+            - paragraph [ref=e171]: Kedai
+            - heading "Karya Seni Pilihan" [level=2] [ref=e172]
+          - link "Lihat semua" [ref=e173] [cursor=pointer]:
+            - /url: /collection
+        - generic [ref=e174]:
+          - article [ref=e175]:
+            - link [ref=e176] [cursor=pointer]:
+              - /url: /collection/test-test
+              - img "test test" [ref=e177]
+            - generic [ref=e178]:
+              - generic [ref=e179]:
+                - paragraph [ref=e180]: Danish
+                - generic [ref=e181]: realisme
+              - heading [level=3] [ref=e182]:
+                - link "test test" [ref=e183] [cursor=pointer]:
+                  - /url: /collection/test-test
+              - paragraph [ref=e184]: dsadsadasd asdjhaskjhdaksjhkdjsa
+              - generic [ref=e185]:
+                - generic [ref=e186]:
+                  - term [ref=e187]: Tahun
+                  - definition [ref=e188]: "2023"
+                - generic [ref=e189]:
+                  - term [ref=e190]: Saiz
+                  - definition [ref=e191]: 20cmx20cm
+              - paragraph [ref=e193]: RM 50
+          - article [ref=e194]:
+            - link [ref=e195] [cursor=pointer]:
+              - /url: /collection/marina-bay-tanjong-batu-bintulu-with-four-horizontal-line-2017
+              - img "Marina Bay Tanjong Batu, Bintulu with Four Horizontal Line 2017" [ref=e196]
+            - generic [ref=e197]:
+              - paragraph [ref=e199]: LEONARD DARIMI
+              - heading [level=3] [ref=e200]:
+                - link "Marina Bay Tanjong Batu, Bintulu with Four Horizontal Line 2017" [ref=e201] [cursor=pointer]:
+                  - /url: /collection/marina-bay-tanjong-batu-bintulu-with-four-horizontal-line-2017
+              - paragraph [ref=e202]: Struktur alam yang tidak kelihatan di mata kasar tetapi dapat dilihat melalui pembedahan visual dengan mengeluarkan semua organ-organ yang menjadi nadi utama visual realistik. Garisan kaki langit (Horizontal Line) antara organ alam yang punya peranan besar itu dalam visual realistik.
+              - generic [ref=e204]:
+                - term [ref=e205]: Tahun
+                - definition [ref=e206]: "2017"
+              - paragraph [ref=e208]: RM 5,000
+          - article [ref=e209]:
+            - link [ref=e210] [cursor=pointer]:
+              - /url: /collection/perak-2017
+              - img "Perak 2017" [ref=e211]
+            - generic [ref=e212]:
+              - paragraph [ref=e214]: NOOR SYAZWANI BINTI SABRI
+              - heading [level=3] [ref=e215]:
+                - link "Perak 2017" [ref=e216] [cursor=pointer]:
+                  - /url: /collection/perak-2017
+              - paragraph [ref=e217]: Karya ini menggambarkan pelbagai jenis keunikan yang terdapat di negeri Perak seperti labu sayong serta keindahaan seni bina Masjid Ubudiah dan Istana Kayangan di Perak.
+              - paragraph [ref=e219]: RM 1,000
+      - generic [ref=e221]:
+        - generic [ref=e222]:
+          - generic [ref=e223]:
+            - paragraph [ref=e224]: Koleksi negara
+            - heading "Koleksi Tetap BSN" [level=2] [ref=e225]
+          - link "Lihat semua" [ref=e226] [cursor=pointer]:
+            - /url: /resources/nag-collection
+        - generic [ref=e227]:
+          - article [ref=e228]:
+            - link [ref=e229] [cursor=pointer]:
+              - /url: /collection/potrait-3189
+              - img "Potrait" [ref=e230]
+            - generic [ref=e231]:
+              - paragraph [ref=e233]: Webmaster
+              - heading [level=3] [ref=e234]:
+                - link "Potrait" [ref=e235] [cursor=pointer]:
+                  - /url: /collection/potrait-3189
+          - article [ref=e236]:
+            - link [ref=e237] [cursor=pointer]:
+              - /url: /collection/caballo-3188
+              - img "CABALLO" [ref=e238]
+            - generic [ref=e239]:
+              - paragraph [ref=e241]: Webmaster
+              - heading [level=3] [ref=e242]:
+                - link "CABALLO" [ref=e243] [cursor=pointer]:
+                  - /url: /collection/caballo-3188
+          - article [ref=e244]:
+            - link [ref=e245] [cursor=pointer]:
+              - /url: /collection/whitehead-s-trogon-2-3187
+              - img "WHITEHEAD'S TROGON" [ref=e246]
+            - generic [ref=e247]:
+              - paragraph [ref=e249]: Webmaster
+              - heading [level=3] [ref=e250]:
+                - link "WHITEHEAD'S TROGON" [ref=e251] [cursor=pointer]:
+                  - /url: /collection/whitehead-s-trogon-2-3187
+      - generic [ref=e254]:
+        - generic [ref=e255]:
+          - paragraph [ref=e256]: Daftar
+          - heading "Sertai Go Gallery hari ini." [level=2] [ref=e257]
+          - paragraph [ref=e258]: Artis, galeri dan penyedia perkhidmatan berdaftar mendapat dashboard sendiri untuk memuat naik karya, pameran, tutorial, artikel dan menerima pertanyaan melalui Peti Masuk.
+        - link "Daftar sekarang" [ref=e259] [cursor=pointer]:
+          - /url: /register
+    - contentinfo [ref=e260]:
+      - generic [ref=e261]:
+        - generic [ref=e262]:
+          - paragraph [ref=e263]: Go Gallery
+          - paragraph [ref=e264]: Portal seni tampak Balai Seni Negara — menghimpunkan artis, galeri, perkhidmatan dan penerbitan seni Malaysia dalam satu ruang digital.
+          - generic [ref=e265]:
+            - link "Facebook" [ref=e266] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+            - link "Instagram" [ref=e269] [cursor=pointer]:
+              - /url: https://instagram.com/balaisenineg
+            - link "Twitter" [ref=e273] [cursor=pointer]:
+              - /url: https://x.com/balaisenineg
+            - link "YouTube" [ref=e276] [cursor=pointer]:
+              - /url: https://youtube.com/@balaisenineg
+            - link "LinkedIn" [ref=e280] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+            - link "TikTok" [ref=e285] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+            - link "Threads" [ref=e288] [cursor=pointer]:
+              - /url: https://facebook.com/balaisenineg
+        - generic [ref=e291]:
+          - paragraph [ref=e292]: Terokai
+          - list [ref=e293]:
+            - listitem [ref=e294]:
+              - link "Pautan" [ref=e295] [cursor=pointer]:
+                - /url: /links
+            - listitem [ref=e296]:
+              - link "Tentang" [ref=e297] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e298]:
+              - link "Karya Untuk Dijual" [ref=e299] [cursor=pointer]:
+                - /url: /shop/art-for-sale
+            - listitem [ref=e300]:
+              - link "Pameran & Aktiviti" [ref=e301] [cursor=pointer]:
+                - /url: /resources/exhibitions
+            - listitem [ref=e302]:
+              - link "Koleksi Tetap BSN" [ref=e303] [cursor=pointer]:
+                - /url: /resources/nag-collection
+        - generic [ref=e304]:
+          - paragraph [ref=e305]: Hubungi
+          - generic [ref=e306]:
+            - paragraph [ref=e307]: 2, Jalan Temerloh, Off Jalan Tun Razak, 53200 Kuala Lumpur, Malaysia
+            - paragraph [ref=e308]: +60 3-4026 7000
+            - paragraph [ref=e309]: pertanyaan@artgallery.gov.my
+      - generic [ref=e311]:
+        - paragraph [ref=e312]: © 2026 Balai Seni Negara. Hak cipta terpelihara.
+        - generic [ref=e313]:
+          - link "Dasar Privasi" [ref=e314] [cursor=pointer]:
+            - /url: /page/dasar-privasi
+          - paragraph [ref=e315]: Kemas kini terakhir 2026-09-20
+  - region "Notifications alt+T":
+    - list
